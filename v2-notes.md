@@ -67,9 +67,9 @@
 
 > Notes:
 
-> DO NOT sacrifice developer ease of use (don't take their UI away)
-> DO NOT put any barriers between Harbor and ACM/Route53
-> Is a "kube serverless" platform needed??
+> - DO NOT sacrifice developer ease of use (don't take their UI away)
+> - DO NOT put any barriers between Harbor and ACM/Route53
+> - Is a "kube serverless" platform needed??
 
 
 
