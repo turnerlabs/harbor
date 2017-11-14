@@ -13,7 +13,8 @@ the major operations that must take place to deploy applications. The rest of th
 for ease of use with ShipIt and Trigger.
 
 - [Harbor UI][harbor-ui], a GUI interface that ties all the APIs together.
-- [Harbor Compose][harbor-compose], a Docker Compose inspired interface.
+- [Harbor Compose CLI][harbor-compose], a Docker Compose inspired CLI.
+- [Terraform Provider](terraform-provider-harbor), a Terraform plugin for managing Harbor resources.
 - [HelmIt][helmit], the API that allows simple retrieval of application logs.
 - [Customs][customs], the API that allows for public facing CI/CD into an internal firewall setup of Harbor.
 - [CatalogIt][catalogit], an API that enables the GUI to show images and versions.
