@@ -14,7 +14,7 @@ for ease of use with ShipIt and Trigger.
 
 - [Harbor UI][harbor-ui], a GUI interface that ties all the APIs together.
 - [Harbor Compose CLI][harbor-compose], a Docker Compose inspired CLI.
-- [Terraform Provider][terraform-provider-harbor], a Terraform plugin for managing Harbor resources.
+- [Terraform Provider][terraform], a Terraform plugin for managing Harbor resources.
 - [HelmIt][helmit], the API that allows simple retrieval of application logs.
 - [Customs][customs], the API that allows for public facing CI/CD into an internal firewall setup of Harbor.
 - [CatalogIt][catalogit], an API that enables the GUI to show images and versions.
@@ -38,3 +38,4 @@ coming soon...
 [helmit]: https://github.com/turnerlabs/helmit-api
 [customs]: https://github.com/turnerlabs/customs-api
 [catalogit]: https://github.com/turnerlabs/catalogit-api
+[terraform]: https://github.com/turnerlabs/terraform-provider-harbor
