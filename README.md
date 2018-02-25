@@ -1,7 +1,7 @@
 # Harbor
 
-A collection of microservices that create a thin layer of abstraction on top of
-orchestration systems. Harbor has two major goals, to increase developer experience and
+A collection of microservices that create an  abstraction on top of
+Kubernetes. Harbor has two major goals, to increase developer experience and
 velocity, and to centralize and sway operational concerns to teams dedicated to solving
 these problems.
 
